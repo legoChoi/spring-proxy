@@ -1,4 +1,4 @@
-package hello.proxy.pureproxy.decorator.code;
+package hello.proxy.decorator.code;
 
 public interface Component {
 
